@@ -1,6 +1,6 @@
 # 📌 Socials
 
-<a href="https://t.me/sophia_chat"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=200px></a>
+<a href="https://t.me/sophia_chat"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width=160px></a> <a href="https://discord.gg/sSryhaEv79"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/62595384e89d1d54d704ece7_3437c10597c1526c3dbd98c737c2bcae.svg" width=200px></a>
 
 # ♥️ SophiApp Contributors
 
